@@ -9,7 +9,7 @@ My name is Ruan Carlos, I'm 25 years old, I graduated in electrical engineering 
 
 ## 📭 How to reach me
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardoalvespaula/)](https://www.linkedin.com/in/ricardoalvespaula/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardoalvespaula/)](https://www.linkedin.com/in/ruan-carlos-a9448b7b/)
 
 <p></p>
 <br>
